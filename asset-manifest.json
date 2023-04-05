@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactcodesysmalloc/static/css/main.03ef9fe4.css",
+    "main.js": "/reactcodesysmalloc/static/js/main.70d43d86.js",
+    "index.html": "/reactcodesysmalloc/index.html",
+    "main.03ef9fe4.css.map": "/reactcodesysmalloc/static/css/main.03ef9fe4.css.map",
+    "main.70d43d86.js.map": "/reactcodesysmalloc/static/js/main.70d43d86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03ef9fe4.css",
+    "static/js/main.70d43d86.js"
+  ]
+}
